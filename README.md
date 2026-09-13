@@ -52,9 +52,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Paresh935&theme=tokyonight)](https://git.io/streak-stats)
 
-## 📈 GitHub Contributions
 
-[![Paresh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paresh935&theme=github-dark)](https://github.com/Paresh935)
 
 ---
 
