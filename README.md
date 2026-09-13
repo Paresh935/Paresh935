@@ -1,7 +1,5 @@
 # Hi 👋, I'm Paresh P Kamath
 
-### 🚀 Java | DSA | AI/ML | Software Engineering
-
 ---
 
 ## 👨‍💻 About Me
@@ -45,6 +43,8 @@
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paresh935)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-paresh-p-kamath-1a3a48245/)
 
 ---
 
